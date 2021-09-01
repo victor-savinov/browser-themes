@@ -1,1 +1,1 @@
-# browser-themes
+# Browser themes
