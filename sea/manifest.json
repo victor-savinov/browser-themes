@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Sea",
+	"theme": {
+		"colors": {
+			"frame": [28, 50, 54],
+			"bookmark_text": [215, 231, 234],
+			"tab_text": [215, 231, 234],
+			"toolbar": [42, 75, 81],
+			"toolbar_button_icon": [188, 215, 220],
+			"omnibox_background": [31, 56, 61],
+			"ntp_background": [14, 25, 27]
+		}
+	}
+}
